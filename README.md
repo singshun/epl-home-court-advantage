@@ -3,9 +3,7 @@ Analysis on the legitimacy of Home Court Advantage in the English Premier League
 
 Steps:
 
-1. Download both data source file and juypter notebook and save them in the same location
-
-2. Run the juypter notebook.
+1. Open the juypter notebook to view the analysis.
 
 Data retrived from: http://www.football-data.co.uk
 
